@@ -34,11 +34,3 @@
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/henrique-alcici-sanchez-09390427b/)
 - 📧 henriquealcici@gmail.com
-
----
-
-## 📊 Estatísticas
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanchezhenrique&layout=compact&theme=dark)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanchezhenrique&show_icons=true&theme=dark)
